@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">Museo Municipal José Manuel Maciel</title><desc id="d">Ilustración local para la guía turística de Coronda.</desc>
+
+<rect width="1200" height="700" fill="#eef3f0"/><rect y="510" width="1200" height="190" fill="#d8c7a4"/>
+<path d="M180 510 V315 L600 145 L1020 315 V510Z" fill="#e7ded0" stroke="#8a7866" stroke-width="8"/>
+<path d="M160 315 H1040" stroke="#8a7866" stroke-width="18"/><path d="M205 500V330 M350 500V330 M495 500V330 M705 500V330 M850 500V330 M995 500V330" stroke="#8a7866" stroke-width="34"/>
+<path d="M180 510 H1020" stroke="#6d6258" stroke-width="22"/>
+<circle cx="600" cy="245" r="38" fill="#087f9d" opacity=".9"/>
+<text x="600" y="600" text-anchor="middle" font-family="sans-serif" font-size="38" font-weight="800" fill="#132329">Museo José Manuel Maciel</text>
+<text x="600" y="642" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#617178">Historia · arqueología · memoria local</text>
+</svg>

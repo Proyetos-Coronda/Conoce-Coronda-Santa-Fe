@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Después de publicar, podés añadir aquí la URL exacta del sitemap si creás uno.

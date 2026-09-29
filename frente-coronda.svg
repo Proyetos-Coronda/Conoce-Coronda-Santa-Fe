@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">Frente ribereño de Coronda</title><desc id="d">Ilustración local para la guía turística de Coronda.</desc>
+
+<rect width="1200" height="700" fill="#d8eff0"/><circle cx="900" cy="130" r="75" fill="#ffe3a0"/>
+<path d="M0 300 Q220 250 430 315 T850 300 T1200 320 V700 H0Z" fill="#79a663"/>
+<path d="M0 410 Q200 360 400 430 T800 405 T1200 425 V700 H0Z" fill="#087f9d"/>
+<path d="M0 545 H1200" stroke="#e7dcc6" stroke-width="28"/>
+<g fill="#4d8b48"><circle cx="150" cy="270" r="50"/><circle cx="215" cy="290" r="70"/><circle cx="1020" cy="285" r="55"/><circle cx="1090" cy="300" r="75"/></g>
+<text x="70" y="115" font-family="sans-serif" font-size="50" font-weight="900" fill="#132329">Coronda</text><text x="70" y="160" font-family="sans-serif" font-size="25" fill="#617178">río, paisaje y vida local</text>
+</svg>

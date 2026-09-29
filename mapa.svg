@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">Mapa esquemático de Coronda</title><desc id="d">Ilustración local para la guía turística de Coronda.</desc>
+
+<rect width="1200" height="700" fill="#f2eee4"/><path d="M820 -30 C690 120 760 245 650 350 S760 520 600 730" fill="none" stroke="#5ab8c1" stroke-width="190"/>
+<path d="M0 530 Q350 450 620 510 T1200 470" fill="none" stroke="#d5cdbd" stroke-width="34"/><path d="M160 80 L500 620 M380 0 L830 650 M40 330 L1100 300" stroke="#fff" stroke-width="18"/>
+<circle cx="590" cy="380" r="19" fill="#c93435"/><circle cx="590" cy="380" r="40" fill="none" stroke="#c93435" stroke-width="4" opacity=".35"/>
+<text x="630" y="370" font-family="sans-serif" font-size="36" font-weight="900" fill="#132329">Coronda</text><text x="630" y="410" font-family="sans-serif" font-size="20" fill="#617178">Esquema orientativo</text>
+</svg>

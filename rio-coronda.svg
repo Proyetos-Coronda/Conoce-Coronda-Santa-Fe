@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">Río Coronda</title><desc id="d">Ilustración local para la guía turística de Coronda.</desc>
+
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d9f0f3"/><stop offset="1" stop-color="#f8f4dc"/></linearGradient><linearGradient id="water" x2="1"><stop stop-color="#087f9d"/><stop offset="1" stop-color="#54b8bd"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#sky)"/><circle cx="930" cy="150" r="80" fill="#f5c96a"/>
+<path d="M0 330 Q180 270 370 345 T760 325 T1200 330 V700 H0Z" fill="#8caf75"/>
+<path d="M0 405 Q190 360 390 420 T790 400 T1200 410 V700 H0Z" fill="url(#water)"/>
+<path d="M0 475 Q180 430 390 485 T790 465 T1200 480" fill="none" stroke="#bde5e4" stroke-width="12" opacity=".65"/>
+<path d="M125 405 q55 -45 110 0 q-55 20 -110 0Z" fill="#fff"/><path d="M180 405v65" stroke="#233a40" stroke-width="5"/>
+<path d="M830 330 q65 -70 130 0 q-65 22 -130 0Z" fill="#fff"/><path d="M895 330v85" stroke="#233a40" stroke-width="5"/>
+<text x="70" y="105" font-family="sans-serif" font-size="48" font-weight="800" fill="#0d596c">Río Coronda</text>
+</svg>
